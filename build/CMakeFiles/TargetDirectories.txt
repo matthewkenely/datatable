@@ -1,0 +1,3 @@
+/mnt/c/Programming/Assignments/CPS1011 Programming Principles in C/datatable/build/CMakeFiles/rebuild_cache.dir
+/mnt/c/Programming/Assignments/CPS1011 Programming Principles in C/datatable/build/CMakeFiles/edit_cache.dir
+/mnt/c/Programming/Assignments/CPS1011 Programming Principles in C/datatable/build/CMakeFiles/datatable.dir

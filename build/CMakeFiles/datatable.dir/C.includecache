@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Programming/Assignments/CPS1011 Programming Principles in C/datatable/DataTable.c
+stdio.h
+-
+string.h
+-
+DataTableFunctions.h
+/mnt/c/Programming/Assignments/CPS1011 Programming Principles in C/datatable/DataTableFunctions.h
+
+/mnt/c/Programming/Assignments/CPS1011 Programming Principles in C/datatable/DataTableFunctions.c
+stdio.h
+-
+string.h
+-
+stdlib.h
+-
+DataTableFunctions.h
+/mnt/c/Programming/Assignments/CPS1011 Programming Principles in C/datatable/DataTableFunctions.h
+
+/mnt/c/Programming/Assignments/CPS1011 Programming Principles in C/datatable/DataTableFunctions.h
+

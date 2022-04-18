@@ -1,0 +1,1 @@
+/usr/bin/cc    CMakeFiles/datatable.dir/DataTable.c.o CMakeFiles/datatable.dir/DataTableFunctions.c.o  -o datatable 
